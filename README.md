@@ -3,8 +3,10 @@
 A part of the TensorFlow introduction, implemented the code for [Deep MNIST for Experts](https://www.tensorflow.org/get_started/mnist/pros)
 
 ## To run
+Need to activate the tensorflow environment first.
 
-`python deepmnist.py`
+	source tensorflow/bin/activate
+	python deepmnist.py
 
 ## Prerequisite
 - TensorFlow 1.0
